@@ -23,8 +23,10 @@ It is just a simple tool that can help you package your applications quickly.
 
 Open loader.js and follow the examples included. (They're commented out).
 
-Several common libraries are included as examples from **CDNJS**, for your convenience.
+Several common libraries are included as examples from **CDNJS**, for your convenience. To use, just uncomment them.
+
+## Notes
 
 You can rename this file to whatever you like.
 
-Please note that URLs or paths should either be absolute, or relative to the path of your webpage, not the script loader itself.
+URLs or paths should either be absolute, or relative to the path of your webpage, not the script loader itself.
